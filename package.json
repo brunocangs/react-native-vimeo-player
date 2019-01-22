@@ -1,6 +1,6 @@
 {
   "name": "react-native-vimeo-player",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./index.js",
   "dependencies": {
     "react-native-android-fullscreen-webview-video": "^1.0.3",
